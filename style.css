@@ -2,12 +2,12 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f5f5f5;
+    background-color: #53a626;
 }
 
 header {
     background-color: #333;
-    color: white;
+    color: rgb(172, 196, 41);
     padding: 10px 0;
     text-align: center;
 }
@@ -24,7 +24,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: white;
+    color: rgb(107, 183, 83);
     text-decoration: none;
 }
 
