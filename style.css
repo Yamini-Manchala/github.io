@@ -31,13 +31,13 @@ nav ul li a {
 section {
     margin: 20px;
     padding: 20px;
-    background-color: white;
+    background-color: rgb(180, 197, 152);
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
 h1, h2, h3 {
-    color: #333;
+    color: #81986e;
 }
 
 .project {
